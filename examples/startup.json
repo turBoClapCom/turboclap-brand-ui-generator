@@ -1,0 +1,25 @@
+{
+  "brand": {
+    "name": "LaunchPilot",
+    "tagline": "Ship polished launches without the drag.",
+    "logo": "",
+    "colors": {
+      "primary": "#2563EB",
+      "secondary": "#14B8A6",
+      "accent": "#F97316",
+      "background": "#F8FAFC",
+      "text": "#0F172A"
+    },
+    "fonts": {
+      "heading": "Space Grotesk",
+      "body": "Inter"
+    },
+    "contact": {
+      "email": "hello@launchpilot.io",
+      "phone": "+91 98765 43210"
+    },
+    "media": {
+      "hero": ""
+    }
+  }
+}

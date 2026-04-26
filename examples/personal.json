@@ -1,0 +1,25 @@
+{
+  "brand": {
+    "name": "Aarav Mehta",
+    "tagline": "Designing calm interfaces for ambitious products.",
+    "logo": "",
+    "colors": {
+      "primary": "#7C3AED",
+      "secondary": "#0EA5E9",
+      "accent": "#F59E0B",
+      "background": "#FAF5FF",
+      "text": "#1F2937"
+    },
+    "fonts": {
+      "heading": "DM Sans",
+      "body": "Source Sans 3"
+    },
+    "contact": {
+      "email": "hello@aaravmehta.design",
+      "phone": "+91 99887 77665"
+    },
+    "media": {
+      "hero": ""
+    }
+  }
+}

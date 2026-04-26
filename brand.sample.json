@@ -1,0 +1,25 @@
+{
+  "brand": {
+    "name": "TurboClap",
+    "tagline": "Build Faster",
+    "logo": "",
+    "colors": {
+      "primary": "#4F46E5",
+      "secondary": "#22C55E",
+      "accent": "#F59E0B",
+      "background": "#FFFFFF",
+      "text": "#111827"
+    },
+    "fonts": {
+      "heading": "Poppins",
+      "body": "Inter"
+    },
+    "contact": {
+      "email": "hello@brand.com",
+      "phone": "+911234567890"
+    },
+    "media": {
+      "hero": ""
+    }
+  }
+}

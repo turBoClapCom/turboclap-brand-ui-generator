@@ -1,0 +1,25 @@
+{
+  "brand": {
+    "name": "Northframe Studio",
+    "tagline": "Strategy, systems, and standout identity work.",
+    "logo": "",
+    "colors": {
+      "primary": "#0F172A",
+      "secondary": "#C084FC",
+      "accent": "#F43F5E",
+      "background": "#FFF7ED",
+      "text": "#111827"
+    },
+    "fonts": {
+      "heading": "Sora",
+      "body": "Manrope"
+    },
+    "contact": {
+      "email": "contact@northframe.studio",
+      "phone": "+44 20 7946 0018"
+    },
+    "media": {
+      "hero": ""
+    }
+  }
+}
