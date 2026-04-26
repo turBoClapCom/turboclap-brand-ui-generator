@@ -1,6 +1,17 @@
+⭐ If you find this useful, please star the repo!
+![GitHub stars](https://img.shields.io/github/stars/turBoClapCom/turboclap-brand-ui-generator)
+![GitHub forks](https://img.shields.io/github/forks/turBoClapCom/turboclap-brand-ui-generator)
+![License](https://img.shields.io/github/license/turBoClapCom/turboclap-brand-ui-generator)
+![Release](https://img.shields.io/github/v/release/turBoClapCom/turboclap-brand-ui-generator)
+
 # turboclap-brand-ui-generator
 
 Generate a validated brand preview UI, portable HTML export, and developer-ready design tokens from a single `brand.json` file.
+
+## 🔗 Live Demo
+
+👉 https://turboclap.com/web-tools/brand-ui-generator/
+
 
 ## Features
 
@@ -94,3 +105,7 @@ Open [http://localhost:8000](http://localhost:8000).
 - The app sanitizes text, URLs, fonts, email, and phone values before rendering.
 - Broken logo URLs fall back to an initials-based badge automatically.
 - Standalone exports include inline styles and copyable palette controls.
+
+---
+
+Built with ❤️ by TurboClap
