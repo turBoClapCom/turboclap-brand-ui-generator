@@ -12,6 +12,8 @@ Generate a validated brand preview UI, portable HTML export, and developer-ready
 
 👉 https://turboclap.com/web-tools/brand-ui-generator/
 
+Brand JSON to UI Generator – Create Brand Kits Instantly | TurboClap
+Generate a complete brand UI from JSON. Export HTML, Tailwind config & design tokens instantly.
 
 ## Features
 
